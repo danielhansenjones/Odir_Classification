@@ -3,6 +3,13 @@
 ## Overview
 This project builds a machine learning model using Python and TensorFlow to analyze eye images for ocular disease recognition. The model classifies images into various categories (such as Normal, Diabetes, Glaucoma, etc.) based on features extracted from eye images.
 
+> **Security Note**
+>  
+> A `.env` file is included in this repository **for demonstration purposes only** to make local setup easier for reviewers.  
+>  
+> In real projects, environment files should **not** be committed to version control and should instead be managed via `.gitignore`, secure secret stores, or deployment-specific configuration mechanisms.
+
+
 *** IMPORTANT: This Project was converted from a Notebook for local use and has not been thoroughly tested.
 
 ## Tools and Technologies
