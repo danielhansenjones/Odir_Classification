@@ -10,7 +10,7 @@ This project builds a machine learning model using Python and TensorFlow to anal
 > In real projects, environment files should **not** be committed to version control and should instead be managed via `.gitignore`, secure secret stores, or deployment-specific configuration mechanisms.
 
 
-*** IMPORTANT: This Project was converted from a Notebook for local use and has not been thoroughly tested.
+*** IMPORTANT: This Project was converted from a Notebook for local use and has not been thoroughly tested it is also comment heavy due to acceptance criteria and is not recommended for production code.
 
 ## Tools and Technologies
 - **Language:** Python 3.13.1
